@@ -1,4 +1,4 @@
-#John F. Kennedy Tribute Page
+# John F. Kennedy Tribute Page
 
 this is a simple tribute html/css page of John F. Kennedy
 
