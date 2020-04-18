@@ -1,5 +1,5 @@
 # John F. Kennedy Tribute Page
 
-this is a simple tribute html/css page of John F. Kennedy
+This is a simple tribute html/css page of John F. Kennedy
 
-feel free to check it out to learn some fun facts!
+Learn some fun facts here: https://dev-tang.github.io/John-F.-Kennedy-Tribute-Page/
